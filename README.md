@@ -6,9 +6,13 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 Step 1: Import pandas as pd.
+
 Step 2: From sklearn imort linear_model.
+
 Step 3: Using Linear Regression stratergy calculate and fit the data.
+
 Step 4: Using Scatter plot() scatter the x and y datas and find the best fit data.
+
 
 ## Program:
 ```
